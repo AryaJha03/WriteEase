@@ -9,7 +9,7 @@ const nonresponsive = `<div>
 const responsive = `<div class="mascotcontent"> <img src="WriteEase WhatsApp Extracted/Ellipse 46.png" alt="">
 <span>Marketer</span>
 </div>
-<div>
+<div class="whatsappbuttondiv">
 <button>
     <img src="WriteEase WhatsApp Extracted/image 18.png" alt="">
     <div>Start on WhatsApp</div>
